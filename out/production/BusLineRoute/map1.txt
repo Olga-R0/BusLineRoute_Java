@@ -1,0 +1,6 @@
+first,A B D E F,7 15 6 9
+second,A C F,9 2
+third,A B C F,7 10 2
+fourth,A C D E,9 11 6
+fifth,A F E,14 9
+sixth,A B C D E,7 10 11 6

@@ -1,0 +1,3 @@
+first,B A C F,1 1 1
+second,A C E F,1 1 1
+third,A C D,1 1
